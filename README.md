@@ -23,9 +23,6 @@ Steps:
 2. Run the preprocessing notebook
 3. Train models and reproduce results
 
-## Paper
-versaao velha
-
 ## Environment
 
 See requirements.txt
