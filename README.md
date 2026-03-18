@@ -27,7 +27,7 @@ Steps:
 
 See requirements.txt
 
-This repository contains the implementation for the ICIMTH 2026 paper using MIMIC-III:
+This repository contains the implementation for the submission of ICIMTH 2026 paper using MIMIC-III:
 
 "Equitable Early Prediction of ICU Length of Stay from First-Day Clinical Data", authors: Harish JEYARAJ, Emeka ABAKASANGA, Thais WEBBER, and Dan DAI. Aston University, School of Computer Science and Digital Technologies, March 2026.
 
